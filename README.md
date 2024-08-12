@@ -68,17 +68,31 @@ Veja os vídeos demonstrando os testes do front-end:
 
 ### Criação de viagem
 
+https://github.com/user-attachments/assets/a1633d45-a9a5-4e7b-8086-8bd25af4ccd6
+
 ### Criação de atividade
+
+https://github.com/user-attachments/assets/f39a4343-2260-4f3d-b62e-c2a67119afe7
 
 ### Cadastro de link
 
+https://github.com/user-attachments/assets/505c73c8-c295-41cd-bf0f-5b289b055ef0
+
 ### Alterando destino e período da viagem
+
+https://github.com/user-attachments/assets/f45e8dca-e761-4950-935b-0ba13347a295
 
 ### Algumas validações
 
+https://github.com/user-attachments/assets/e01676ee-2199-4b26-87ce-ff5c1460addc
+
 ### Responsividade (tela inicial)
 
+https://github.com/user-attachments/assets/64e17103-95cd-412c-96e5-afda3eccbbf4
+
 ### Responsividade (tela detalhes da viagem)
+
+https://github.com/user-attachments/assets/a98abd9b-9ccc-48d4-ae32-e639c18ff270
 
 ## Layout
 
