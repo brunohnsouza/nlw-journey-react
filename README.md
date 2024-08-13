@@ -64,7 +64,7 @@ O projeto oferece as seguintes funcionalidades:
 
 ## Vídeos de Testes
 
-Veja os vídeos demonstrando os testes do front-end:
+Veja os vídeos demonstrando os testes do front-end com o [back-end](https://github.com/brunohnsouza/nlw-journey-node) funcionando localmente em `http://localhost:3333`:
 
 ### Criação de viagem
 
