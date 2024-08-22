@@ -9,7 +9,6 @@ Projeto desenvolvido durante o NLW Journey da [Rocketseat](https://app.rocketsea
 - [Ferramentas](#ferramentas)
 - [Instalação](#instalação)
 - [Funcionalidade](#funcionalidades)
-- [Projeto](#projeto)
 - [Layout](#layout)
 - [Licença](#licença)
 
